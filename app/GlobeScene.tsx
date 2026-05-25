@@ -1,7 +1,21 @@
+"use client";
+
 export default function GlobeScene() {
   return (
-    <div className="w-full h-full flex items-center justify-center text-green-400">
-      Tactical Globe Engine Initializing...
+    <div
+      style={{
+        width: "100vw",
+        height: "100vh",
+        background: "black",
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
+        color: "white",
+        fontSize: "40px",
+        fontWeight: "bold",
+      }}
+    >
+      PARINOX OS
     </div>
   );
 }
