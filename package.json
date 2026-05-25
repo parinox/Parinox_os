@@ -20,5 +20,8 @@
     "cesium": "^1.120.0",
     "lucide-react": "^0.500.0",
     "electron": "^33.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2"
   }
 }
